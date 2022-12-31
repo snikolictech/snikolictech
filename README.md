@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven Nikolic
-- 👀 I’ve worked in gamedev, audio, web. Currently developing a game as NeonDagger (studio)
+- 👀 I’ve worked in gamedev, audio, web. Currently developing a game: neondagger.com
 - 📫 You can reach me at snikolictech@hotmail.com
 
 <!---
